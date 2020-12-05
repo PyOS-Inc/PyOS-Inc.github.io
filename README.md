@@ -8,4 +8,6 @@ This is a operating system based off python
 
 if it says the kit is dangerous its because of that there is 3 zip file in the kit, for each app. therefore, chrome thinks its a zip bomb.
 
+[Download Python](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe)
+
 [Github](https://github.com/PyOS-Inc/PyOS-Inc.github.io/tree/main)
